@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28dcc966-21ab-40ae-87b8-0872b01405e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CmdDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CmdDate2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NotepadPlusFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NotepadPlusPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RuntimeEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Info.txt" afterDir="false" />
+    <list default="true" id="28dcc966-21ab-40ae-87b8-0872b01405e1" name="Changes" comment="añadidos diferentes formas de ejecutar procesosgit remote add origin https://github.com/BertoSC/procesosBasico.git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,34 +21,50 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2mVh2M4xv7q0SGN4McmZzs6383Y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CmdDate.executor": "Run",
-    "Application.CmdDate2.executor": "Run",
-    "Application.NotepadPlusFile.executor": "Run",
-    "Application.NotepadPlusPlus.executor": "Run",
-    "Application.RuntimeEx1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/a23albertogc/Desktop/PSP/RuntimeExec/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CmdDate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CmdDate2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NotepadPlusFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NotepadPlusPlus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RuntimeEx1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/a23albertogc/Desktop/PSP/RuntimeExec/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.example" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="RuntimeExec" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="RuntimeExec" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,7 +75,20 @@
       <option name="presentableId" value="Default" />
       <updated>1727167445185</updated>
     </task>
+    <task id="LOCAL-00001" summary="añadidos diferentes formas de ejecutar procesos">
+      <option name="closed" value="true" />
+      <created>1727172708369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727172708369</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="añadidos diferentes formas de ejecutar procesos" />
+    <option name="LAST_COMMIT_MESSAGE" value="añadidos diferentes formas de ejecutar procesos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
